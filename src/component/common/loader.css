@@ -1,0 +1,10 @@
+.loader {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  left: 100vh;position: relative;
+}
+.loader p{
+    padding-top:20px ;
+}
